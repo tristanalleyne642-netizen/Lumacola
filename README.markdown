@@ -12,4 +12,4 @@ Here are the Coca-Cola instructions from [This American Life.](http://www.thisam
 
 #### OpenCola     
 [OpenCola](http://www.colawp.com/colas/400/cola467_recipe.html) is an open source Coca-Cola project worth looking into. 
-
+ our new drink lumacola is a fork of open cola with lemonade
